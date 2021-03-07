@@ -1,6 +1,6 @@
 # PSI_Support
 
-_Mental health_
+_Mental Disorders_
 
 **Types:**
 
