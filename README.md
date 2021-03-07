@@ -2,8 +2,6 @@
 
 _Mental health_
 
-## Mental disorders
-
 **Types:**
 
 - Bipolar disorder;
