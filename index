@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PSI Support</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="css/principal.css">
+    </head>
+    <body>
+        <h1 style="color:brown">PSI Support</h1>
+        
+        <div>
+        <ul>
+            <li><a href="">Description</a></li>
+            <li><a href="">Daily</a></li>
+            <li><a href="">Let it out</a></li>
+            <li><a href="">Appointment scheduling</a></li>
+            <li><a href="">Professionals</a></li>
+            <li><a href="">Suggestion</a></li>
+        </ul>
+        </div>
+        <div>
+            <img src="img/tranquilidade.jpg">
+        </div>
+
+    </body>
+</html>
